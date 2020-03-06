@@ -9,6 +9,8 @@ spec:
     listKind: AppServiceList
     plural: appservices
     singular: appservice
+    shortNames:
+    - as
   scope: Namespaced
   subresources:
     status: {}
